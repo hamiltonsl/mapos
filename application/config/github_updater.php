@@ -7,7 +7,7 @@ if (! defined('BASEPATH')) {
 /**
  * The user name of the git hub user who owns the repo
  */
-$config['github_user'] = 'RamonSilva20';
+$config['github_user'] = 'hamiltonsl';
 
 /**
  * The repo on GitHub we will be updating from
